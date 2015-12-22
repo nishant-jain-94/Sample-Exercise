@@ -1,0 +1,25 @@
+1. Read the following string and convert into an array
+    This is the first line,This is the second lines,This is the third line,This is the fourth line,This is the fifth line
+2. Print the length of the array.
+3. Print the all the elements in the array.
+4. Add the "This is a sixth lines" into the array.
+5. Print the line if it has a word "lines".
+-------------------------------------------------------------------------------------
+1. Create the Object as the following and print on the console:
+    {
+      lineNum: 1,
+      lineText: "This is the first line"
+    }
+
+2. Create an array which has objects as above and print it.
+
+3. Access 4th and 6th element of the array and just print the lineText and not the lineNum.
+
+4.  Add a 7th element into the array with lineNum = 7 and lineText as "This is the seventh line"
+------------------------------------------------------------------------------------
+1. create a file name data.txt and write the string into it manually.
+2. read the file you created.
+3. transform into an array.
+4. Add the sixth line into the array
+6. write lines into the file called filter.json which has word called "lines".
+------------------------------------------------------------------------------------
